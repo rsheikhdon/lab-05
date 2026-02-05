@@ -1,4 +1,4 @@
-package com.example.lab5starter;
+package com.example.lab5_starter;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -9,6 +9,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.lab5_starter.R;
 
 import com.google.firebase.firestore.CollectionReference;
 import com.google.firebase.firestore.FirebaseFirestore;
