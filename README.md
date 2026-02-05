@@ -2,14 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Radwa Sheikhdon>`
+- **CCID:** `<radwa>`
 
 ## References and Resources
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://ualberta-cmput301.github.io/labs/slides/Lab5FIntegNew.pdf
 
 List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
+None
 
 | Student Name | CCID     |
 | ------------ | -------- |
