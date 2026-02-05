@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lab5starter"
+    namespace = "com.example.lab5_starter"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.lab5starter"
+        applicationId = "com.example.lab5_starter"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
