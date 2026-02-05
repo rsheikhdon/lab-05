@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity
             cityDialogFragment.show(getSupportFragmentManager(), "Add City");
         });
 
-        // Allows you to lick on a city to edit it
+        // Allows you to click on a city to edit it
         cityListView.setOnItemClickListener((adapterView, view, i, l) -> {
             City city = cityArrayAdapter.getItem(i);
             CityDialogFragment cityDialogFragment = CityDialogFragment.newInstance(city);
